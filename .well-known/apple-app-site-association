@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "X274VAW2N8.com.riseuplabs.xortestapp",
+        "paths": [
+          "/trainr-deep-links/myProfile/",
+          "/trainr-deep-links/myProfile/*",
+          "/trainr-deep-links/community-page",
+          "/trainr-deep-links/community-page/*",
+          "/trainr-deep-links/teammate-profile/*"
+        ]
+      }
+    ]
+  }
+}
