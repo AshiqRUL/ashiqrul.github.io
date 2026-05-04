@@ -1,1 +1,12 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fitnessapp.xor",
+      "sha256_cert_fingerprints": [
+        "05:A9:83:84:95:07:0D:0F:77:CF:0A:1D:EA:DD:B8:BA:57:7B:8E:39:18:85:6B:11:39:AA:ED:AC:6B:F8:25:A6"
+      ]
+    }
+  }
+]
